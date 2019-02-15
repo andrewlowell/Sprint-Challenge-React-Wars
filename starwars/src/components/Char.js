@@ -1,7 +1,6 @@
-import React, { Component } from 'react';
+import React from 'react';
 
 const Char = props => {
-  console.log(props.char.name);
   return (
     <li>{props.char.name} the {props.char.eye_color}-eyed wonder stands tall at {props.char.height} centimeters and weighs in at {props.char.mass} kilograms</li>
   );

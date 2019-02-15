@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import './StarWars.css';
 import Char from './Char';
 
