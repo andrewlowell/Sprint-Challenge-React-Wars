@@ -1,0 +1,10 @@
+ul {
+  background-color: lightgray;
+  padding: 20px;
+  margin:auto;
+}
+li {
+  list-style-type: none;
+  font-size: 20px;
+  padding:5px;
+}
